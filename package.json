@@ -1,0 +1,23 @@
+{
+  "name": "asyng-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juaco7489/asyng-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juaco7489/asyng-landing/issues"
+  },
+  "homepage": "https://github.com/Juaco7489/asyng-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
